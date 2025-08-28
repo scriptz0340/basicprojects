@@ -1,0 +1,8 @@
+## Overall:
+#      Although i was able to write a functional solution to this problem, I recognize 
+#  how useful the new techniques and nuances covered in the solution will be to me in 
+#  future projects as i improve my ability to write functional, clean, efficient, and
+#  professional code.
+#      I really found the refactoring by modularization section particularly fascinating 
+#  and satisfying. This project has also helped me to understand how arguments work, 
+#  which was something i had been struggling with.
