@@ -52,7 +52,7 @@ def main():
 main()
 
 
-## Copilot corrections reflection:
+## After research reflection:
 #  The problem was that i was trying to save a file to my computer that included certain
 #  special characters in the file name that aren't allowed on my OS. The fix was to 
 #  sanitize the user input to either remove or replace special characters with
