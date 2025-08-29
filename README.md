@@ -40,7 +40,7 @@ If you're following along or just curious:
 
 1. Clone the repository:
   
-   git clone https://github.com/yourusername/mypythonprojects.git
+   git clone https://github.com/scriptz0340/mypythonprojects.git
    cd mypythonprojects
 
 2. Navigate to a project folder:
