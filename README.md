@@ -39,9 +39,9 @@ The main goals of this repository are:
 If you're following along or just curious:
 
 1. Clone the repository:
-   ```bash
-  git clone https://github.com/yourusername/mypythonprojects.git
-  cd mypythonprojects
+  
+   git clone https://github.com/yourusername/mypythonprojects.git
+   cd mypythonprojects
 
 2. Navigate to a project folder:
 
