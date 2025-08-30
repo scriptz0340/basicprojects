@@ -72,3 +72,6 @@ main()
 #     2. I had a problem with the play again loop that made it ask if i wanted to play again 3 times before quitting even if i said no every time.
 #     I asked copilot and it told me to use 'playing = True, while playing:' instead of 'while True' and a break statement.
 # Pretty fun project overall. I found this one interesting.
+
+
+## Update: The play again loop still has that bug.
