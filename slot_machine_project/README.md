@@ -1,6 +1,6 @@
-# 🎰 Slot Machine Game (Python CLI)
+# Slot Machine Game (Python CLI)
 
-## 📌 Project Description
+## Project Description
 
 **Guided Project**
 
@@ -10,7 +10,7 @@ This project was developed to practice fundamental Python concepts including loo
 
 ---
 
-## 🧠 Key Concepts Used
+## Key Concepts Used
 
 - **Randomization with `random` module**: Symbols are selected randomly for each spin, ensuring each game has unique results.
 - **Data structures (Dictionaries and Lists)**:  
