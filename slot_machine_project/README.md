@@ -49,9 +49,9 @@ Total bet: $20
 
 ### Slot Machine Output
 
-| @ | * | # |
-| * | * | * |
-| $ | # | $ |
+    | @ | * | # |
+    | * | * | * |
+    | $ | # | $ |
 
 You won $20!
 You won on line(s): 2
