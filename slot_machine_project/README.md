@@ -90,8 +90,8 @@ Add more ways to win.
 
 ## File Structure
 
-slot_machine.py # Main game code
-README.md # Project documentation (this file)
+    slot_machine.py # Main game code
+    README.md # Project documentation (this file)
 
 
 ---
