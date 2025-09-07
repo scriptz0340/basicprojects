@@ -9,17 +9,7 @@ and this space is where I track my progress, practice new concepts, and build co
 
 ## 📁 Folder Structure
 
-### `/basics/`
-This folder contains beginner-level projects and scripts that cover fundamental Python concepts such as:
-
-- Variables and data types
-- Input/output
-- Conditionals
-- Loops
-- Functions
-- Modules and libraries
-
-More folders will be added over time as I explore new topics and take on more advanced projects.
+I will continue to add new folders as i take on new challenges and courses within python
 
 ---
 
