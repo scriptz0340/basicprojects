@@ -35,7 +35,7 @@ If you're following along or just curious:
 
 2. Navigate to a project folder:
 
-   cd basics
+   cd folder_name
 
 4. Run the Python scripts using:
 
