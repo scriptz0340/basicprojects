@@ -1,4 +1,4 @@
-file = 'list.txt'
+file = 'todo.txt'
 
 with open(file, 'r') as f:
     todo = [line.strip() for line in f.readlines()]
@@ -10,7 +10,7 @@ def add_task():
     print("\nTask added!")
 
 def remove_task():
-    remove = input("\nRemove chore: ")
+    remove = input("\nRemove task: ")
     todo.remove(remove)
     print("\nTask removed!")
 
