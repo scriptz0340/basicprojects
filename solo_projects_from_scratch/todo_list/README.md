@@ -1,5 +1,5 @@
 ## Overview
-- Useful tool creating and managing a todo list.
+- Useful tool for creating and managing a todo list.
 
 ## Usage
 - Remember to make sure that you have a file in your current working directory that matches the one that the program is trying to access (cd /path/to/file)
